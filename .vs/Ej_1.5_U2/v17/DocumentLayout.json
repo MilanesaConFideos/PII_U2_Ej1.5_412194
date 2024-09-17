@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D11F58FE-BCCA-4F21-AF1C-E0E232269BA3}|Ej_1.5_U2\\Ej_1.5_U2.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\ej_1.5_u2\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11F58FE-BCCA-4F21-AF1C-E0E232269BA3}|Ej_1.5_U2\\Ej_1.5_U2.csproj|solutionrelative:ej_1.5_u2\\controllers\\facturacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\implementations\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\contracts\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\utils\\parametersql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\services\\facturacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\services\\facturacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\implementations\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\implementations\\formapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\implementations\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\implementations\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\implementations\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\contracts\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\contracts\\iformapagorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\contracts\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\repositories\\contracts\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\repositories\\contracts\\idetallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entities\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entities\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entities\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\entities\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\entities\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|c:\\users\\usuario\\documents\\utn\\prog_ii\\entregas\\ej_1.5_u2\\facturacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3998DFAA-1C6A-4787-B417-F10A21366CEB}|Facturacion\\Facturacion.csproj|solutionrelative:facturacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\FormaPagoRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Implementations\\FormaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\FormaPagoRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Implementations\\FormaPagoRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:43.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Implementations\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\FacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Implementations\\FacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\DetalleFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Implementations\\DetalleFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\DetalleFacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Implementations\\DetalleFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:16.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParameterSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Utils\\ParameterSQL.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Utils\\ParameterSQL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Utils\\ParameterSQL.cs",
+              "RelativeToolTip": "Facturacion\\Utils\\ParameterSQL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:04.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "Facturacion\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Implementations\\ArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Implementations\\ArticuloRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Implementations\\ArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:42:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Ej_1.5_U2\\Controllers\\FacturacionController.cs",
+              "RelativeDocumentMoniker": "Ej_1.5_U2\\Controllers\\FacturacionController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Ej_1.5_U2\\Controllers\\FacturacionController.cs",
+              "RelativeToolTip": "Ej_1.5_U2\\Controllers\\FacturacionController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:30:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFormaPagoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IFormaPagoRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Contracts\\IFormaPagoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IFormaPagoRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Contracts\\IFormaPagoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:41:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Contracts\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IFacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Contracts\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:41:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FacturacionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Services\\FacturacionManager.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Services\\FacturacionManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Services\\FacturacionManager.cs",
+              "RelativeToolTip": "Facturacion\\Services\\FacturacionManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA2wAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:43:54.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDetalleFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IDetalleFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Contracts\\IDetalleFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IDetalleFacturaRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Contracts\\IDetalleFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:54.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Repositories\\Contracts\\IArticuloRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Repositories\\Contracts\\IArticuloRepository.cs",
+              "RelativeToolTip": "Facturacion\\Repositories\\Contracts\\IArticuloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:51.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entities\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\FormaPago.cs",
+              "RelativeToolTip": "Facturacion\\Entities\\FormaPago.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:24.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\Factura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entities\\Factura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\Factura.cs",
+              "RelativeToolTip": "Facturacion\\Entities\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:20.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entities\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\DetalleFactura.cs",
+              "RelativeToolTip": "Facturacion\\Entities\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\Articulo.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Entities\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Entities\\Articulo.cs",
+              "RelativeToolTip": "Facturacion\\Entities\\Articulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:40:06.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Class1.cs",
+              "RelativeDocumentMoniker": "Facturacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\UTN\\Prog_II\\Entregas\\Ej_1.5_U2\\Facturacion\\Class1.cs",
+              "RelativeToolTip": "Facturacion\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:39:22.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

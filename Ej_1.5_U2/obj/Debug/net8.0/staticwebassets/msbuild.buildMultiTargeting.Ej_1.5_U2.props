@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ej_1.5_U2.props" />
+</Project>

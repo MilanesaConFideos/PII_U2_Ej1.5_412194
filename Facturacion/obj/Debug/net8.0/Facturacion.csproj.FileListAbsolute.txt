@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\bin\Debug\net8.0\Facturacion.deps.json
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\bin\Debug\net8.0\Facturacion.dll
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\bin\Debug\net8.0\Facturacion.pdb
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfo.cs
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.dll
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\refint\Facturacion.dll
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\Facturacion.pdb
+C:\Users\Usuario\Documents\UTN\Prog_II\Entregas\Ej_1.5_U2\Facturacion\obj\Debug\net8.0\ref\Facturacion.dll

@@ -1,0 +1,123 @@
+CREATE DATABASE FacturacionApp
+GO
+USE FacturacionApp
+GO
+
+CREATE TABLE Articulos(
+id_articulo INT IDENTITY,
+nombre VARCHAR(40) not null,
+precioUnitario INT NOT NULL,
+CONSTRAINT pk_articulo PRIMARY KEY (id_articulo)
+)
+
+CREATE TABLE FormasPago(
+formaPago INT IDENTITY,
+nombre VARCHAR(50) NOT NULL,
+CONSTRAINT pk_formaPago PRIMARY KEY(formaPago)
+)
+
+CREATE TABLE Facturas(
+nroFactura INT IDENTITY,
+fecha DATE NOT NULL,
+formaPago INT NOT NULL,
+cliente VARCHAR(40),
+CONSTRAINT pk_factura PRIMARY KEY (nroFactura),
+CONSTRAINT fk_factura_formaPago FOREIGN KEY (formaPago)
+REFERENCES FormasPago(formaPago)
+)
+CREATE TABLE DetallesFactura(
+id_detalle INT IDENTITY,
+nroFactura INT NOT NULL,
+articulo INT NOT NULL,
+cantidad INT NOT NULL
+CONSTRAINT pk_detalle PRIMARY KEY (id_detalle),
+CONSTRAINT fk_detalle_factura FOREIGN KEY (nroFactura)
+REFERENCES Facturas(nroFactura),
+CONSTRAINT fk_detalle_articulo FOREIGN KEY (articulo)
+REFERENCES Articulos(id_articulo)
+)
+GO
+CREATE PROCEDURE SP_FACTURA_ID
+@idFactura INT
+AS
+BEGIN
+SELECT *
+FROM Facturas
+WHERE nroFactura = @idFactura
+END
+GO
+CREATE PROCEDURE SP_DETALLE_IDFACTURA
+@idFactura INT
+AS
+BEGIN 
+SELECT *
+FROM DetallesFactura
+WHERE nroFactura = @idFactura
+END
+GO
+CREATE PROCEDURE SP_FACTURA_CREAR
+    @fecha DATE,
+    @formaPago INT,
+    @cliente VARCHAR(40),
+    @NuevaFacturaID INT OUTPUT
+AS
+BEGIN
+    INSERT INTO Facturas (fecha, formaPago, cliente)
+    VALUES (@fecha, @formaPago, @cliente);
+    SET @NuevaFacturaID = SCOPE_IDENTITY();
+END
+GO
+CREATE PROCEDURE SP_DETALLE_CREAR
+@idFactura INT,
+@articulo INT,
+@cantidad INT
+AS
+BEGIN
+INSERT INTO DetallesFactura(nroFactura, articulo, cantidad)
+VALUES (@idFactura, @articulo, @cantidad)
+END
+GO
+CREATE PROCEDURE SP_ARTICULO_TODO
+AS
+BEGIN
+SELECT *
+FROM Articulos
+END
+GO
+CREATE PROCEDURE SP_ARTICULO_ID
+@id INT
+AS
+BEGIN
+SELECT *
+FROM Articulos
+WHERE id_articulo = @id
+END
+GO
+CREATE PROCEDURE SP_FACTURA_TODO
+AS
+BEGIN
+SELECT *
+FROM Facturas
+END
+GO
+CREATE PROCEDURE SP_FORMAPAGO_ID
+@id INT
+AS
+BEGIN
+SELECT *
+FROM FormasPago
+WHERE formaPago = @id
+END
+GO
+CREATE PROCEDURE SP_FORMAPAGO_TODO
+AS
+BEGIN
+SELECT *
+FROM FormasPago
+END
+GO
+INSERT INTO FormasPago (nombre)
+VALUES ('tarjeta de credito'), ('tarjet de debito'), ('efectivo'), ('transferencia');
+
+INSERT INTO Articulos (nombre, precioUnitario)
+VALUES ('gaseosa', 1200), ('galletas', 700), ('papas fritas', 800), ('agua', 900);
